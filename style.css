@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+header{
+    height: 150px;
+    background-color: lightblue;
+    display: flex;
+    font-size: 16px;
+}
+header img{
+    border-radius: 10px;
+    
+}
+.A1{
+    margin: 10px;
+}
+.link-nav{
+  background-color: #833AE1;
+  border-radius: 10px; 
+  color: black;
+  text-decoration: none;
+  margin: 10px;
+  padding: 10px;
+}
+.link-nav:hover{
+  background-color: #FFD630;
+}
+.id {
+    position: fixed;
+    width: 100px;
+    right: 30px;
+    top: 30px;
+    color:  #833AE1
+}
+.id img{
+    border-radius: 8px;
+}
