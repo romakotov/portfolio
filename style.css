@@ -37,3 +37,9 @@ header img{
 .id img{
     border-radius: 8px;
 }
+}
+.id img:hover{
+    width: 50px;
+    height: 50px;
+}
+
