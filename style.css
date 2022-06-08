@@ -43,6 +43,7 @@ header img{
     height: 50px;
 }
 .A2{
-   margin-left: 300px; 
+display: block;
+  margin: 0 auto;
 }
 
